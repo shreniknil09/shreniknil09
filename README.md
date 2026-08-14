@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:shreniknil.0902@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
@@ -367,7 +367,7 @@ AI · Data Science · Machine Learning · GenAI · Open Source · Interesting Pr
 <img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 &nbsp;
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:shreniknil.0902@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
