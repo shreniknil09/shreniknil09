@@ -1,0 +1,36 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: shreniknil09
+          outputs: |
+            dist/github-snake.svg?color_snake=%23FFFFFF&color_dots=%23051008,%230B2B12,%2310521D,%2319A844,%2339FF14
+            dist/github-snake-dark.svg?color_snake=%23FFFFFF&color_dots=%23051008,%230B2B12,%2310521D,%2319A844,%2339FF14
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Publish snake to output branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          force_orphan: true
+          commit_message: "chore: update contribution snake"
