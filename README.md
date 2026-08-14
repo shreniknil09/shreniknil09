@@ -79,7 +79,7 @@ My goal is to become a strong **Data Scientist / AI Engineer** capable of taking
 
 ### `LANGUAGES`
 
-`Python` · `C++` · `Java` · `SQL`
+`Python` · `SQL`
 
 ### `DATA & ANALYTICS`
 
@@ -95,7 +95,7 @@ My goal is to become a strong **Data Scientist / AI Engineer** capable of taking
 
 ### `ENGINEERING`
 
-`Git` · `GitHub` · `VS Code` · `Jupyter` · `Docker` · `APIs` · `DBMS`
+`Git` · `GitHub` · `VS Code` · `Jupyter` · `APIs` · `DBMS`
 
 ---
 
