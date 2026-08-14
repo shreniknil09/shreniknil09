@@ -2,33 +2,25 @@
 
 <img src="./assets/hero.svg" alt="Shrenik Nil — AI & Data Science Builder" width="100%"/>
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/shreniknil09">
-<img src="https://img.shields.io/badge/GITHUB-050805?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/shrenik-nil-b30980285">
-<img src="https://img.shields.io/badge/LINKEDIN-050805?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
-</a>
-&nbsp;
-<a href="./resume.pdf">
-<img src="https://img.shields.io/badge/RESUME-050805?style=for-the-badge&logo=readthedocs&logoColor=39FF14"/>
-</a>
-&nbsp;
-<a href="mailto:shreniknil.0902@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050805?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
+<a href="https://github.com/shreniknil09">GitHub</a>
+&nbsp; • &nbsp;
+<a href="https://linkedin.com/in/shrenik-nil-b30980285">LinkedIn</a>
+&nbsp; • &nbsp;
+<a href="./resume.pdf">Resume</a>
+&nbsp; • &nbsp;
+<a href="mailto:shreniknil.0902@gmail.com">Email</a>
 
 <br/><br/>
 
-`SYSTEM STATUS: BUILDING • LEARNING • GROWING`
+`AI` &nbsp; `DATA` &nbsp; `CODE` &nbsp; `IMPACT`
 
 </div>
 
 ---
 
-# `01` // SYSTEM PROFILE
+## `01` // SYSTEM PROFILE
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -37,8 +29,8 @@
 │  ROLE        : AI & DATA SCIENCE BUILDER                     │
 │  STATUS      : BUILDING • LEARNING • GROWING                 │
 │                                                              │
-│  FOCUS       : MACHINE LEARNING                              │
-│              : DATA SCIENCE                                  │
+│  FOCUS       : DATA SCIENCE                                  │
+│              : MACHINE LEARNING                              │
 │              : GENERATIVE AI                                 │
 │              : SOFTWARE ENGINEERING                           │
 │                                                              │
@@ -49,24 +41,25 @@
 
 I'm a Computer Science student focused on building practical systems across **Data Science, Machine Learning, Generative AI and Software Development**.
 
-I like taking a problem beyond theory:
+I prefer learning by building:
 
 `PROBLEM → DATA → ANALYSIS → MODEL → APPLICATION`
 
-My goal is to become a strong **Data Scientist / AI Engineer** who can work across the complete lifecycle — from raw data and experimentation to usable intelligent applications.
+My goal is to become a strong **Data Scientist / AI Engineer** capable of taking ideas from experimentation to usable intelligent systems.
 
 ---
 
-# `02` // CURRENT FOCUS
+## `02` // CURRENT OPERATING MODE
 
 <div align="center">
 
-| 🧠 MACHINE LEARNING | 📊 DATA SCIENCE | ✨ GENERATIVE AI | ⚙️ DATA ENGINEERING | 💻 SOFTWARE |
-|:---:|:---:|:---:|:---:|:---:|
-| Models | Analytics | LLMs | Pipelines | DSA |
-| Features | Statistics | RAG | ETL | APIs |
-| Evaluation | Visualization | Embeddings | SQL | DBMS |
-| Prediction | Insights | AI Apps | Data Systems | System Design |
+| DOMAIN | MODE |
+|:---|:---:|
+| 🧠 Machine Learning | BUILD |
+| 📊 Data Science | BUILD |
+| ✨ Generative AI | LEARN + BUILD |
+| ⚙️ Data Engineering | EXPLORE |
+| 💻 Software Engineering | STRENGTHEN |
 
 </div>
 
@@ -74,72 +67,59 @@ My goal is to become a strong **Data Scientist / AI Engineer** who can work acro
 
 <div align="center">
 
-`GENERATIVE AI`
+**GENERATIVE AI**
 
-**LLMs · Prompt Engineering · RAG · Embeddings · AI Applications**
+`LLMs` · `Prompt Engineering` · `RAG` · `Embeddings` · `AI Applications`
 
 </div>
 
 ---
 
-# `03` // TECH STACK
+## `03` // TECHNOLOGY STACK
 
 ### `LANGUAGES`
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql&theme=dark"/>
-</p>
+`Python` · `C++` · `Java` · `SQL`
 
 ### `DATA & ANALYTICS`
 
 `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Plotly` · `Power BI`
 
-### `MACHINE LEARNING & AI`
+### `MACHINE LEARNING`
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-</p>
-
-`Scikit-learn` · `XGBoost` · `Keras` · `Feature Engineering` · `Model Evaluation`
+`Scikit-learn` · `TensorFlow` · `PyTorch` · `Keras` · `XGBoost`
 
 ### `GENERATIVE AI`
 
-`LLMs` · `Prompt Engineering` · `RAG` · `Embeddings` · `Vector Databases` · `AI Applications`
+`LLMs` · `RAG` · `Prompt Engineering` · `Embeddings` · `Vector Databases`
 
-### `TOOLS & DEVELOPMENT`
+### `ENGINEERING`
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark"/>
-</p>
+`Git` · `GitHub` · `VS Code` · `Jupyter` · `Docker` · `APIs` · `DBMS`
 
 ---
 
-# `04` // WHAT I BUILD
+## `04` // WHAT I BUILD
 
 <table>
 <tr>
 <td width="50%">
 
-### 🤖 MACHINE LEARNING
+### 🧠 MACHINE LEARNING
 
-- Data preprocessing
-- Exploratory Data Analysis
-- Feature engineering
-- Regression & classification
-- Model evaluation
-- Predictive systems
+`EDA` · `Preprocessing` · `Feature Engineering`
+
+`Regression` · `Classification` · `Evaluation`
 
 </td>
+
 <td width="50%">
 
 ### 📊 DATA SCIENCE
 
-- Python & SQL analysis
-- Statistics
-- Data cleaning
-- Visualization
-- Business-oriented analysis
-- Data-driven insights
+`Python` · `SQL` · `Statistics`
+
+`Data Cleaning` · `Visualization` · `Insights`
 
 </td>
 </tr>
@@ -149,24 +129,19 @@ My goal is to become a strong **Data Scientist / AI Engineer** who can work acro
 
 ### ✨ GENERATIVE AI
 
-- LLM applications
-- RAG systems
-- Prompt engineering
-- Embeddings
-- AI workflows
-- Intelligent applications
+`LLMs` · `RAG` · `Embeddings`
+
+`Prompt Engineering` · `AI Workflows`
 
 </td>
+
 <td width="50%">
 
-### 💻 SOFTWARE ENGINEERING
+### 💻 SOFTWARE
 
-- DSA
-- OOP
-- DBMS
-- APIs
-- Git & GitHub
-- Backend fundamentals
+`DSA` · `OOP` · `DBMS`
+
+`APIs` · `Git/GitHub` · `Backend Fundamentals`
 
 </td>
 </tr>
@@ -174,98 +149,78 @@ My goal is to become a strong **Data Scientist / AI Engineer** who can work acro
 
 ---
 
-# `05` // FEATURED SYSTEMS
+## `05` // FEATURED SYSTEMS
 
-> Selected projects that represent the direction I'm building toward.
+### `01` — 🔥 CricketGPT OS
 
-### 🔥 [CricketGPT OS](https://github.com/shreniknil09/cricketgpt-os)
-
-**AI-powered cricket intelligence platform**
+**AI-powered intelligence platform**
 
 `Python` `Machine Learning` `GenAI` `Data Engineering` `FastAPI`
 
-An end-to-end system combining data, analytics, machine learning and generative AI into an intelligent application.
+An end-to-end system combining data, analytics, machine learning and generative AI.
+
+→ **[Open Repository](https://github.com/shreniknil09/cricketgpt-os)**
 
 ---
 
-### 🧠 [Plant Disease Detection](https://github.com/shreniknil09/plant-disease-detection)
+### `02` — 🧠 Plant Disease Detection
 
 **Computer vision / machine learning project**
 
-`Python` `Jupyter Notebook` `Deep Learning`
+`Python` `Jupyter` `Deep Learning`
 
-A machine-learning based project focused on identifying plant diseases from images.
+A machine-learning project focused on identifying plant diseases from images.
+
+→ **[Open Repository](https://github.com/shreniknil09/plant-disease-detection)**
 
 ---
 
-### ✨ [Team Vikings — Gemma GDG](https://github.com/shreniknil09/Team-Vikings-Gemma-GDG)
+### `03` — ✨ Team Vikings — Gemma GDG
 
 **Generative AI / collaborative project**
 
-A team project exploring practical applications around Google's Gemma ecosystem.
+A team project exploring practical applications around the Gemma ecosystem.
+
+→ **[Open Repository](https://github.com/shreniknil09/Team-Vikings-Gemma-GDG)**
 
 ---
 
-### 👥 [Envision — Team Bandhilki](https://github.com/shreniknil09/envision---Team-Bandhilki)
+### `04` — 👥 Envision — Team Bandhilki
 
-**Collaborative project**
+**Collaborative development project**
 
-A team-based project developed through collaborative problem solving and implementation.
+A team-based project built through collaborative problem solving and implementation.
+
+→ **[Open Repository](https://github.com/shreniknil09/envision---Team-Bandhilki)**
 
 ---
 
 <div align="center">
 
-<a href="https://github.com/shreniknil09?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0A120C?style=for-the-badge&logo=github&logoColor=39FF14"/>
-</a>
+**[ EXPLORE ALL REPOSITORIES → ](https://github.com/shreniknil09?tab=repositories)**
 
 </div>
 
 ---
 
-# `06` // LEARNING & EXPERIMENTS
-
-My repositories also include academic work, experiments and practical implementations that document the learning process.
-
-`SQL` · `DBMS` · `Data Analytics` · `Machine Learning` · `DSA` · `Development`
-
-> Not every repository is intended to be production-ready. Some exist to document experiments, coursework and the progression from fundamentals to applied projects.
-
----
-
-# `07` // ENGINEERING LOOP
+## `06` // ENGINEERING LOOP
 
 <div align="center">
 
 ```text
-             ┌───────────────┐
-             │     LEARN     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     BUILD     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     BREAK     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     DEBUG     │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │  UNDERSTAND   │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │    IMPROVE    │
-             └───────┬───────┘
-                     ↓
-             ┌───────────────┐
-             │     SHIP      │
-             └───────────────┘
+LEARN
+  ↓
+BUILD
+  ↓
+BREAK
+  ↓
+DEBUG
+  ↓
+UNDERSTAND
+  ↓
+IMPROVE
+  ↓
+SHIP
 ```
 
 ### `CONSISTENCY > INTENSITY`
@@ -274,99 +229,86 @@ My repositories also include academic work, experiments and practical implementa
 
 ---
 
-# `08` // GITHUB INTELLIGENCE
+## `07` // GITHUB INTELLIGENCE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreniknil09&show_icons=true&hide_border=true&bg_color=00000000&title_color=39FF14&icon_color=39FF14&text_color=F5F5F5&include_all_commits=true&count_private=false" height="180"/>
+```text
+┌──────────────────────────────────────────────────────────┐
+│                    GITHUB / SIGNAL                       │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│   CODE        DATA        AI        SYSTEMS              │
+│    │           │          │           │                 │
+│    └───────────┴──────────┴───────────┘                 │
+│                         ↓                                │
+│                    BUILD → SHIP                           │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreniknil09&layout=compact&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=F5F5F5&langs_count=8" height="180"/>
+**Primary signal:** projects, commits, issues, pull requests and contribution activity.
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shreniknil09&hide_border=true&background=00000000&ring=39FF14&fire=FFFFFF&currStreakLabel=39FF14&sideLabels=F5F5F5&dates=8A948D" width="70%"/>
-
-</div>
-
----
-
-# `09` // CONTRIBUTION MATRIX
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreniknil09&bg_color=00000000&color=39FF14&line=16A34A&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+This profile intentionally avoids fragile third-party statistic cards so the README remains clean and reliable.
 
 </div>
 
 ---
 
-# `10` // CONTRIBUTION SNAKE
+## `08` // CONTRIBUTION MATRIX
 
 <div align="center">
-
-### `CONTRIBUTIONS → INTELLIGENCE`
 
 <img src="https://raw.githubusercontent.com/shreniknil09/shreniknil09/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
 
+<br/>
+
+`CONTRIBUTIONS → CONSISTENCY → GROWTH`
+
 </div>
 
 ---
 
-# `11` // BUILDING TOWARD
+## `09` // BUILDING TOWARD
 
 <div align="center">
 
 ```text
 DATA
-  ↓
+ ↓
 INSIGHT
-  ↓
+ ↓
 MODEL
-  ↓
+ ↓
 INTELLIGENCE
-  ↓
+ ↓
 APPLICATION
-  ↓
+ ↓
 REAL-WORLD IMPACT
 ```
 
 </div>
 
-I'm continuously strengthening the fundamentals that connect **data, machine learning, AI and software engineering** so I can build complete systems rather than isolated experiments.
+The long-term direction is to combine **Data Science + AI + Software Engineering** to build complete, useful systems.
 
 ---
 
-# `12` // CONNECT
+## `10` // CONNECT
 
 <div align="center">
 
-## `BUILD • LEARN • CREATE • REPEAT`
+### `BUILD • LEARN • CREATE • REPEAT`
 
-Interested in:
+Open to conversations around:
 
 `AI` · `Data Science` · `Machine Learning` · `GenAI` · `Open Source` · `Interesting Problems`
 
 <br/>
 
-<a href="https://linkedin.com/in/shrenik-nil-b30980285">
-<img src="https://img.shields.io/badge/LINKEDIN-050805?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
-</a>
-&nbsp;
-<a href="https://github.com/shreniknil09">
-<img src="https://img.shields.io/badge/GITHUB-050805?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-&nbsp;
-<a href="./resume.pdf">
-<img src="https://img.shields.io/badge/RESUME-050805?style=for-the-badge&logo=readthedocs&logoColor=39FF14"/>
-</a>
-&nbsp;
-<a href="mailto:shreniknil.0902@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-050805?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
-</a>
+**[LinkedIn](https://linkedin.com/in/shrenik-nil-b30980285)**  
+**[GitHub](https://github.com/shreniknil09)**  
+**[Resume](./resume.pdf)**  
+**[Email](mailto:shreniknil.0902@gmail.com)**
 
 <br/><br/>
 
@@ -379,7 +321,5 @@ Interested in:
 <div align="center">
 
 <img src="./assets/hero.svg" alt="" width="100%"/>
-
-### `THANKS FOR VISITING.`
 
 </div>
