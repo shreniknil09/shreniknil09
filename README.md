@@ -1,21 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,45:0f172a,75:312e81,100:06b6d4&text=SHRENIK%20NIL&fontColor=ffffff&fontSize=58&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20BUILDER&descAlignY=59&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020503,55:07120A,100:16A34A&text=SHRENIK%20NIL&fontColor=F5F5F5&fontSize=58&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20BUILDER&descAlignY=59&descSize=18&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=AI+%E2%80%A2+DATA+%E2%80%A2+CODE+%E2%80%A2+IMPACT;Building+intelligent+systems;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping;Turning+data+into+intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=720&lines=AI+%E2%80%A2+DATA+%E2%80%A2+CODE+%E2%80%A2+IMPACT;Building+intelligent+systems;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping;Turning+data+into+intelligence" />
 
 <br/><br/>
 
 <a href="https://github.com/shreniknil09">
-  <img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-050805?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/shrenik-nil-b30980285">
-  <img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-050805?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
+</a>
+&nbsp;
+<a href="./resume.pdf">
+<img src="https://img.shields.io/badge/RESUME-050805?style=for-the-badge&logo=readthedocs&logoColor=39FF14"/>
 </a>
 &nbsp;
 <a href="mailto:shreniknil.0902@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/EMAIL-050805?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
@@ -79,7 +83,7 @@ Statistics
 
 RAG
 
-Data Systems
+ETL
 
 APIs
 
@@ -95,19 +99,25 @@ DBMS
 
 Prediction
 
-Business Problems
+Insights
 
 AI Apps
 
-ETL Fundamentals
+Data Systems
 
 System Design
 
 </div>
 
-CURRENTLY EXPLORING
+CURRENTLY LEARNING
 
-Deep Learning · LLMs · RAG · MLOps · NLP · Time Series · System Design
+<div align="center">
+
+GENERATIVE AI
+
+LLMs · Prompt Engineering · RAG · Embeddings · AI Applications
+
+</div>
 
 03 // TECH STACK
 
@@ -252,7 +262,7 @@ A team-based project developed through collaborative problem solving and impleme
 <div align="center">
 
 <a href="https://github.com/shreniknil09?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-0A120C?style=for-the-badge&logo=github&logoColor=39FF14"/>
 </a>
 
 </div>
@@ -305,9 +315,9 @@ CONSISTENCY > INTENSITY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shreniknil09&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b5cf6&icon_color=22d3ee&text_color=cbd5e1&include_all_commits=true&count_private=false" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shreniknil09&show_icons=true&hide_border=true&bg_color=00000000&title_color=39FF14&icon_color=39FF14&text_color=F5F5F5&include_all_commits=true&count_private=false" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreniknil09&layout=compact&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=cbd5e1&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreniknil09&layout=compact&hide_border=true&bg_color=00000000&title_color=39FF14&text_color=F5F5F5&langs_count=8" height="180"/>
 
 </div>
 
@@ -315,7 +325,7 @@ CONSISTENCY > INTENSITY
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shreniknil09&hide_border=true&background=00000000&ring=8b5cf6&fire=22d3ee&currStreakLabel=8b5cf6&sideLabels=cbd5e1&dates=64748b" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=shreniknil09&hide_border=true&background=00000000&ring=39FF14&fire=FFFFFF&currStreakLabel=39FF14&sideLabels=F5F5F5&dates=8A948D" width="70%"/>
 
 </div>
 
@@ -323,11 +333,21 @@ CONSISTENCY > INTENSITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreniknil09&bg_color=00000000&color=22d3ee&line=8b5cf6&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreniknil09&bg_color=00000000&color=39FF14&line=16A34A&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
-10 // BUILDING TOWARD
+10 // CONTRIBUTION SNAKE
+
+<div align="center">
+
+CONTRIBUTIONS → INTELLIGENCE
+
+<img src="https://raw.githubusercontent.com/shreniknil09/shreniknil09/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
+
+</div>
+
+11 // BUILDING TOWARD
 
 <div align="center">
 
@@ -345,9 +365,9 @@ REAL-WORLD IMPACT
 
 </div>
 
-I'm continuously strengthening the fundamentals that connect data, machine learning, AI and software engineering so that I can build complete systems rather than isolated experiments.
+I'm continuously strengthening the fundamentals that connect data, machine learning, AI and software engineering so I can build complete systems rather than isolated experiments.
 
-11 // CONNECT
+12 // CONNECT
 
 <div align="center">
 
@@ -360,15 +380,19 @@ AI · Data Science · Machine Learning · GenAI · Open Source · Interesting Pr
 <br/>
 
 <a href="https://linkedin.com/in/shrenik-nil-b30980285">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-050805?style=for-the-badge&logo=linkedin&logoColor=39FF14"/>
 </a>
 &nbsp;
 <a href="https://github.com/shreniknil09">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GITHUB-050805?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+&nbsp;
+<a href="./resume.pdf">
+<img src="https://img.shields.io/badge/RESUME-050805?style=for-the-badge&logo=readthedocs&logoColor=39FF14"/>
 </a>
 &nbsp;
 <a href="mailto:shreniknil.0902@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/EMAIL-050805?style=for-the-badge&logo=gmail&logoColor=FFFFFF"/>
 </a>
 
 <br/><br/>
@@ -379,8 +403,8 @@ SYSTEM STATUS: ONLINE
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:06b6d4,50:312e81,100:020617"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:39FF14,50:0B3D18,100:020503"/>
 
-THANKS FOR VISITING. 🚀
+THANKS FOR VISITING.
 
 </div>
