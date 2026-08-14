@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020503,55:07120A,100:16A34A&text=SHRENIK%20NIL&fontColor=F5F5F5&fontSize=58&fontAlignY=38&desc=AI%20%26%20DATA%20SCIENCE%20BUILDER&descAlignY=59&descSize=18&animation=twinkling" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=720&lines=AI+%E2%80%A2+DATA+%E2%80%A2+CODE+%E2%80%A2+IMPACT;Building+intelligent+systems;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping;Turning+data+into+intelligence" />
+<img src="./assets/hero.svg" alt="Shrenik Nil — AI & Data Science Builder" width="100%"/>
 
 <br/><br/>
 
@@ -24,12 +22,15 @@
 
 <br/><br/>
 
-SYSTEM STATUS: BUILDING • LEARNING • GROWING
+`SYSTEM STATUS: BUILDING • LEARNING • GROWING`
 
 </div>
 
-01 // SYSTEM PROFILE
+---
 
+# `01` // SYSTEM PROFILE
+
+```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │  USER        : SHRENIK NIL                                   │
@@ -44,147 +45,101 @@ SYSTEM STATUS: BUILDING • LEARNING • GROWING
 │  MISSION     : Turn problems → data → intelligence → impact  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
+```
 
-I'm a Computer Science student focused on building practical systems across Data Science, Machine Learning, Generative AI and Software Development.
+I'm a Computer Science student focused on building practical systems across **Data Science, Machine Learning, Generative AI and Software Development**.
 
 I like taking a problem beyond theory:
 
-PROBLEM → DATA → ANALYSIS → MODEL → APPLICATION
+`PROBLEM → DATA → ANALYSIS → MODEL → APPLICATION`
 
-My goal is to become a strong Data Scientist / AI Engineer who can work across the complete lifecycle — from raw data and experimentation to usable intelligent applications.
+My goal is to become a strong **Data Scientist / AI Engineer** who can work across the complete lifecycle — from raw data and experimentation to usable intelligent applications.
 
-02 // CURRENT FOCUS
+---
 
-<div align="center">
-
-🧠 MACHINE LEARNING
-
-📊 DATA SCIENCE
-
-✨ GENERATIVE AI
-
-⚙️ DATA ENGINEERING
-
-💻 SOFTWARE
-
-Models
-
-Analytics
-
-LLMs
-
-Pipelines
-
-DSA
-
-Features
-
-Statistics
-
-RAG
-
-ETL
-
-APIs
-
-Evaluation
-
-Visualization
-
-Embeddings
-
-SQL
-
-DBMS
-
-Prediction
-
-Insights
-
-AI Apps
-
-Data Systems
-
-System Design
-
-</div>
-
-CURRENTLY LEARNING
+# `02` // CURRENT FOCUS
 
 <div align="center">
 
-GENERATIVE AI
-
-LLMs · Prompt Engineering · RAG · Embeddings · AI Applications
+| 🧠 MACHINE LEARNING | 📊 DATA SCIENCE | ✨ GENERATIVE AI | ⚙️ DATA ENGINEERING | 💻 SOFTWARE |
+|:---:|:---:|:---:|:---:|:---:|
+| Models | Analytics | LLMs | Pipelines | DSA |
+| Features | Statistics | RAG | ETL | APIs |
+| Evaluation | Visualization | Embeddings | SQL | DBMS |
+| Prediction | Insights | AI Apps | Data Systems | System Design |
 
 </div>
 
-03 // TECH STACK
+### `CURRENTLY LEARNING`
 
-LANGUAGES
+<div align="center">
+
+`GENERATIVE AI`
+
+**LLMs · Prompt Engineering · RAG · Embeddings · AI Applications**
+
+</div>
+
+---
+
+# `03` // TECH STACK
+
+### `LANGUAGES`
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,cpp,java,mysql&theme=dark"/>
 </p>
 
-DATA & ANALYTICS
+### `DATA & ANALYTICS`
 
-NumPy · Pandas · Matplotlib · Seaborn · Plotly · Power BI
+`NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Plotly` · `Power BI`
 
-MACHINE LEARNING & AI
+### `MACHINE LEARNING & AI`
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
 </p>
 
-Scikit-learn · XGBoost · Keras · Feature Engineering · Model Evaluation
+`Scikit-learn` · `XGBoost` · `Keras` · `Feature Engineering` · `Model Evaluation`
 
-GENERATIVE AI
+### `GENERATIVE AI`
 
-LLMs · Prompt Engineering · RAG · Embeddings · Vector Databases · AI Applications
+`LLMs` · `Prompt Engineering` · `RAG` · `Embeddings` · `Vector Databases` · `AI Applications`
 
-TOOLS & DEVELOPMENT
+### `TOOLS & DEVELOPMENT`
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark"/>
 </p>
 
-04 // WHAT I BUILD
+---
+
+# `04` // WHAT I BUILD
 
 <table>
 <tr>
 <td width="50%">
 
-🤖 MACHINE LEARNING
+### 🤖 MACHINE LEARNING
 
-Data preprocessing
-
-Exploratory Data Analysis
-
-Feature engineering
-
-Regression & classification
-
-Model evaluation
-
-Predictive systems
+- Data preprocessing
+- Exploratory Data Analysis
+- Feature engineering
+- Regression & classification
+- Model evaluation
+- Predictive systems
 
 </td>
 <td width="50%">
 
-📊 DATA SCIENCE
+### 📊 DATA SCIENCE
 
-Python & SQL analysis
-
-Statistics
-
-Data cleaning
-
-Visualization
-
-Business-oriented analysis
-
-Data-driven insights
+- Python & SQL analysis
+- Statistics
+- Data cleaning
+- Visualization
+- Business-oriented analysis
+- Data-driven insights
 
 </td>
 </tr>
@@ -192,72 +147,72 @@ Data-driven insights
 <tr>
 <td width="50%">
 
-✨ GENERATIVE AI
+### ✨ GENERATIVE AI
 
-LLM applications
-
-RAG systems
-
-Prompt engineering
-
-Embeddings
-
-AI workflows
-
-Intelligent applications
+- LLM applications
+- RAG systems
+- Prompt engineering
+- Embeddings
+- AI workflows
+- Intelligent applications
 
 </td>
 <td width="50%">
 
-💻 SOFTWARE ENGINEERING
+### 💻 SOFTWARE ENGINEERING
 
-DSA
-
-OOP
-
-DBMS
-
-APIs
-
-Git & GitHub
-
-Backend fundamentals
+- DSA
+- OOP
+- DBMS
+- APIs
+- Git & GitHub
+- Backend fundamentals
 
 </td>
 </tr>
 </table>
 
-05 // FEATURED SYSTEMS
+---
 
-Selected projects that represent the direction I'm building toward.
+# `05` // FEATURED SYSTEMS
 
-🔥 CricketGPT OS
+> Selected projects that represent the direction I'm building toward.
 
-AI-powered cricket intelligence platform
+### 🔥 [CricketGPT OS](https://github.com/shreniknil09/cricketgpt-os)
 
-Python Machine Learning GenAI Data Engineering FastAPI
+**AI-powered cricket intelligence platform**
+
+`Python` `Machine Learning` `GenAI` `Data Engineering` `FastAPI`
 
 An end-to-end system combining data, analytics, machine learning and generative AI into an intelligent application.
 
-🧠 Plant Disease Detection
+---
 
-Computer vision / machine learning project
+### 🧠 [Plant Disease Detection](https://github.com/shreniknil09/plant-disease-detection)
 
-Python Jupyter Notebook Deep Learning
+**Computer vision / machine learning project**
+
+`Python` `Jupyter Notebook` `Deep Learning`
 
 A machine-learning based project focused on identifying plant diseases from images.
 
-✨ Team Vikings — Gemma GDG
+---
 
-Generative AI / collaborative project
+### ✨ [Team Vikings — Gemma GDG](https://github.com/shreniknil09/Team-Vikings-Gemma-GDG)
+
+**Generative AI / collaborative project**
 
 A team project exploring practical applications around Google's Gemma ecosystem.
 
-👥 Envision — Team Bandhilki
+---
 
-Collaborative project
+### 👥 [Envision — Team Bandhilki](https://github.com/shreniknil09/envision---Team-Bandhilki)
+
+**Collaborative project**
 
 A team-based project developed through collaborative problem solving and implementation.
+
+---
 
 <div align="center">
 
@@ -267,18 +222,23 @@ A team-based project developed through collaborative problem solving and impleme
 
 </div>
 
-06 // LEARNING & EXPERIMENTS
+---
+
+# `06` // LEARNING & EXPERIMENTS
 
 My repositories also include academic work, experiments and practical implementations that document the learning process.
 
-SQL · DBMS · Data Analytics · Machine Learning · DSA · Development
+`SQL` · `DBMS` · `Data Analytics` · `Machine Learning` · `DSA` · `Development`
 
-Not every repository is intended to be production-ready. Some exist to document experiments, coursework and the progression from fundamentals to applied projects.
+> Not every repository is intended to be production-ready. Some exist to document experiments, coursework and the progression from fundamentals to applied projects.
 
-07 // ENGINEERING LOOP
+---
+
+# `07` // ENGINEERING LOOP
 
 <div align="center">
 
+```text
              ┌───────────────┐
              │     LEARN     │
              └───────┬───────┘
@@ -306,12 +266,15 @@ Not every repository is intended to be production-ready. Some exist to document 
              ┌───────────────┐
              │     SHIP      │
              └───────────────┘
+```
 
-CONSISTENCY > INTENSITY
+### `CONSISTENCY > INTENSITY`
 
 </div>
 
-08 // GITHUB INTELLIGENCE
+---
+
+# `08` // GITHUB INTELLIGENCE
 
 <div align="center">
 
@@ -329,7 +292,9 @@ CONSISTENCY > INTENSITY
 
 </div>
 
-09 // CONTRIBUTION MATRIX
+---
+
+# `09` // CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -337,20 +302,25 @@ CONSISTENCY > INTENSITY
 
 </div>
 
-10 // CONTRIBUTION SNAKE
+---
+
+# `10` // CONTRIBUTION SNAKE
 
 <div align="center">
 
-CONTRIBUTIONS → INTELLIGENCE
+### `CONTRIBUTIONS → INTELLIGENCE`
 
 <img src="https://raw.githubusercontent.com/shreniknil09/shreniknil09/output/github-snake-dark.svg" alt="GitHub contribution snake" width="100%"/>
 
 </div>
 
-11 // BUILDING TOWARD
+---
+
+# `11` // BUILDING TOWARD
 
 <div align="center">
 
+```text
 DATA
   ↓
 INSIGHT
@@ -362,20 +332,23 @@ INTELLIGENCE
 APPLICATION
   ↓
 REAL-WORLD IMPACT
+```
 
 </div>
 
-I'm continuously strengthening the fundamentals that connect data, machine learning, AI and software engineering so I can build complete systems rather than isolated experiments.
+I'm continuously strengthening the fundamentals that connect **data, machine learning, AI and software engineering** so I can build complete systems rather than isolated experiments.
 
-12 // CONNECT
+---
+
+# `12` // CONNECT
 
 <div align="center">
 
-BUILD • LEARN • CREATE • REPEAT
+## `BUILD • LEARN • CREATE • REPEAT`
 
 Interested in:
 
-AI · Data Science · Machine Learning · GenAI · Open Source · Interesting Problems
+`AI` · `Data Science` · `Machine Learning` · `GenAI` · `Open Source` · `Interesting Problems`
 
 <br/>
 
@@ -397,14 +370,16 @@ AI · Data Science · Machine Learning · GenAI · Open Source · Interesting Pr
 
 <br/><br/>
 
-SYSTEM STATUS: ONLINE
+`SYSTEM STATUS: ONLINE`
 
 </div>
 
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:39FF14,50:0B3D18,100:020503"/>
+<img src="./assets/hero.svg" alt="" width="100%"/>
 
-THANKS FOR VISITING.
+### `THANKS FOR VISITING.`
 
 </div>
